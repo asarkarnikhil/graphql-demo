@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_USERNAME":"shopit_admin",
+        "MONGO_PASSWORD":"q0tCTpAwbDi2c5cw",
+        "MONGO_DB":"graphql-demo"
+    }
+}
